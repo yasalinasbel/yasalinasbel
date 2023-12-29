@@ -3,7 +3,9 @@
 <!--
 **yasalinasbel/yasalinasbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My trajectory as a Chemical Engineer has afforded me the opportunity to confront challenges head-on and invest considerable effort into surmounting them. I possess an unwavering belief in the transformative potential of technology as a catalyst for innovation and efficiency enhancement. It is this conviction that has prompted me to channel my skill set toward the realm of software engineering, with a concerted effort to unlock my fullest capabilities
+I have experience working on projects that involve Java, Spring Boot, and Maven to develop standalone backend applications, RESTful web services, and web applications. Throughout my journey, I've enhanced the quality of my code by adhering to SOLID principles and implementing Test-Driven Development. This approach ensures that my code not only meets industry standards but also aligns with the specific requirements of clients.
+
+Currently, I am actively seeking a position as a Junior Java Developer. I am eager to apply and further enhance my technical skills, engage in exciting projects, and contribute to the success of the team. 
 
 ## Skills:
 
